@@ -8,10 +8,12 @@ author_profile: true
 {% include base_path %}
 
 Preprints, In Review, and In Prep
+======
 
 Russo, N.J., A.B. Davies, R.V. Blakey, E.M. Ordway, and T.B. Smith. Feedback loops between 3D vegetation structure and ecological functions of animals. _Authorea Preprints_
 
 Peer-reviewed Publications
+======
 
 Valenti, V.L., E.C. Carcelen, K. Lange, N.J. Russo, and B. Chapman. 2020. Leveraging Google Earth Engine user interface for semi-automated wetland classification in the Great Lakes Basin at 10 m with optical and radar geospatial datasets. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 13: 6008-6018. 
 
