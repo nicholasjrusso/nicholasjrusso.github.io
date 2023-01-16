@@ -15,3 +15,5 @@ My research focuses on the importance of landscape structure for animal movement
 [Curriculum Vitae](http://nicholasjrusso.github.io/files/Russo_CV_121222.pdf)
 
 Contact: nickrusso@ucla.edu
+
+<br/><img src='/images/Bouamir_Forest.png'>
