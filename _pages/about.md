@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /nicholasjrusso.github.io
 ---
 
 I am a PhD candidate in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. 
