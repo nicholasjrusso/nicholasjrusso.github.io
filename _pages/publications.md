@@ -13,7 +13,7 @@ author_profile: true
 
 # Peer-reviewed Publications
 
-[5] Valenti, V.L., E.C. Carcelen, K. Lange, N.J. Russo, and B. Chapman. 2020. Leveraging Google Earth Engine user interface for semi-automated wetland classification in      the Great Lakes Basin at 10 m with optical and radar geospatial datasets. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_ 13:          6008-6018. 
+[5] Valenti, V.L., E.C. Carcelen, K. Lange, N.J. Russo, and B. Chapman. 2020. Leveraging Google Earth Engine user interface for semi-automated wetland classification in      the Great Lakes Basin at 10 m with optical and radar geospatial datasets. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_ 13:          6008-6018. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9205661)
 
 [4] Robertson, M.W., N.J. Russo, S.J. McInnes, B. Goffinet, and J.E. Jiménez. 2020. Potential dispersal of tardigrades by birds through endozoochory: evidence from sub-      Antarctic White-bellied Seedsnipe (Attagis malouinus). _Polar Biology_ 43: 899–902.
 
