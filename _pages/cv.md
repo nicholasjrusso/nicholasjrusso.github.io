@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Ecology and Evolutionary Biology, University of California, Los Angeles, 2024 (expected)
+* B.S. in Ecology and Evolutionary Biology, University of Connecticut, 2018
 
 Work experience
 ======
