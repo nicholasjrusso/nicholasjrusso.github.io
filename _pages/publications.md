@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints, In Review, and In Prep
 
-[6] **Russo, N.J.**, A.B. Davies, R.V. Blakey, E.M. Ordway, and T.B. Smith. Feedback loops between 3D vegetation structure and ecological functions of animals.[ _Authorea           Preprints_] <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/93935/preprint_pdf/7280e11d6258f66993031e8c2ed57fca.pdf" target="_blank">link</a>
+[6] **Russo, N.J.**, A.B. Davies, R.V. Blakey, E.M. Ordway, and T.B. Smith. Feedback loops between 3D vegetation structure and ecological functions of animals. _Authorea           Preprints_ <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/93935/preprint_pdf/7280e11d6258f66993031e8c2ed57fca.pdf" target="_blank">link</a>
 
 ## Peer-reviewed Publications
 
