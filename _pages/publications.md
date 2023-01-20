@@ -24,6 +24,6 @@ author_profile: true
 [1] **Russo, N.J.**, C.A.S.-J. Cheah, and M.W. Tingley. 2016. Experimental evidence for branch-to-bird transfer as a mechanism for avian dispersal of the hemlock woolly          adelgid (Hemiptera: Adelgidae). _Environmental Entomology_ 45: 1107-1114. <a href="https://www.researchgate.net/profile/Nicholas-Russo-3/publication/305784014_Experimental_Evidence_for_Branch-to-Bird_Transfer_as_a_Mechanism_for_Avian_Dispersal_of_the_Hemlock_Woolly_Adelgid_Hemiptera_Adelgidae/links/5a26bc674585155dd423eed2/Experimental-Evidence-for-Branch-to-Bird-Transfer-as-a-Mechanism-for-Avian-Dispersal-of-the-Hemlock-Woolly-Adelgid-Hemiptera-Adelgidae.pdf" target="_blank">link</a>
 
 <figure>
-  <img src="/images/wordcloudEarthColors.png" align="center" style="width:50%" />
+  <img src="/images/wordcloudEarthColors.png" class="centerImage" style="width:50%" />
 </figure>
 
