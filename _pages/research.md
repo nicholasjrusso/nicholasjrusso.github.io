@@ -13,6 +13,8 @@ Black-casqued (Ceratogymna atrata) and white-thighed hornbill (Bycanistes alboti
 hundreds of kilometers during the food-lean dry season. I want to know how they track fruit resources during these long-distance movements. To this end, I am 
 exploring remote sensing data from satellite and drone–especially LiDAR–as predictors of their movement decisions and seed dispersal patterns.
 
+<img src="/images/hornbill8899-JunJul2022.gif" align="right" style="width:22%" />
+
 ## Spring Bird Migration as a Mechanism for Hemlock Woolly Adelgid Dispersal
 
 Hemlock woolly adelgid (Adelges tsugae) is an invasive insect that destroys forests of eastern and Carolina hemlock (Tsuga canadensis and T. caroliniana, respectively), 
