@@ -8,12 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Movement Ecology of Hornbills and Seed Dispersal in the Congo Basin
-
+<img src="/images/hornbill8899-JunJul2022.gif" align="right" style="width:75%" />
 Black-casqued (Ceratogymna atrata) and white-thighed hornbill (Bycanistes albotibialis) disperse the seeds of more than 50 rainforest tree species and may travel 
 hundreds of kilometers during the food-lean dry season. I want to know how they track fruit resources during these long-distance movements. To this end, I am 
 exploring remote sensing data from satellite and drone–especially LiDAR–as predictors of their movement decisions and seed dispersal patterns.
-
-<img src="/images/hornbill8899-JunJul2022.gif" align="right" style="width:22%" />
 
 ## Spring Bird Migration as a Mechanism for Hemlock Woolly Adelgid Dispersal
 
