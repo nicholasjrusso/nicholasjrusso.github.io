@@ -14,7 +14,7 @@ hundreds of kilometers during the food-lean dry season. I want to know how they 
 exploring remote sensing data from satellite and drone–especially LiDAR–as predictors of their movement decisions and seed dispersal patterns.
 
 ## Spring Bird Migration as a Mechanism for Hemlock Woolly Adelgid Dispersal
-<img src="/images/WoollyAdelgid.jpg" align="left" style="width:30%" />
+<img src="/images/WoollyAdelgid.jpg" align="left" style="width:40%" />
 Hemlock woolly adelgid (Adelges tsugae) is an invasive insect that destroys forests of eastern and Carolina hemlock (Tsuga canadensis and T. caroliniana, respectively), 
 and I’m interested in how birds contribute to its expansion. My first project focused on adelgid transfer between infested branches and birds, and in 2016 and 2017 
 I mist-netted birds in hemlock forests and collected adelgids from their feathers from migration through the breeding season. Another experiment investigated the 
