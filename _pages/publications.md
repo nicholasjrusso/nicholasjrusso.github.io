@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Peer-reviewed Publications
+[9] **N.J. Russo**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. 2024. _Journal of Animal Ecology_. In Press. <a href = "https://www.authorea.com/doi/full/10.22541/au.172115227.74173101" target="_blank">link</a>
+
 [8] Dehaudt, B., T. Bruce, V. Deblauwe, A. Ferraz, B. Gardner, T.F. Bibila, M. LeBreton, G. Mempong, K. Njabo, S.N. Nkengbeza, E.M. Ordway, L. Pavan, **N.J. Russo**, T.B. Smith, and M.S. Luskin. 2024. Divergent seed dispersal outcomes: interactions between seed, disperser, and forest traits. _Ecology_. e4409. <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4409" target="_blank">link</a>
 
 [7] **Russo, N.J.**, K.M. Holbrook, T.V. Dietsch, F.A. Forzi, A.S.A. Tekam, and T.B. Smith. 2024. A maneuverable canopy net for capturing large tropical birds. _Journal of Field Ornithology_ 95:13. <a href = "https://journal.afonet.org/vol95/iss1/art13/" target="_blank">link</a>
