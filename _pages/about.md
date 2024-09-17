@@ -12,7 +12,7 @@ I am a PhD candidate in Ecology and Evolutionary Biology at the University of Ca
 
 My research focuses on the importance of landscape structure for animal movements and the role of animals as dispersal vectors for other organisms. I am currently studying seed dispersal in rainforests of Cameroon.
 
-<a href="http://nicholasjrusso.github.io/files/Russo_CV_091724.pdf" target="_blank">Curriculum Vitae</a>
+<a href="https://nicholasjrusso.github.io/files/Russo_CV_09172024.pdf" target="_blank">Curriculum Vitae</a>
 
 Contact: nickrusso@ucla.edu
 
