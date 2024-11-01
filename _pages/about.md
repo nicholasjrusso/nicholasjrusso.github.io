@@ -14,6 +14,6 @@ I completed my PhD in Ecology and Evolutionary Biology at the University of Cali
 
 <a href="https://nicholasjrusso.github.io/files/Russo_CV_09172024.pdf" target="_blank">Curriculum Vitae</a>
 
-Contact: nickrusso@ucla.edu
+Contact: nickrusso@g.harvard.edu
 
 <br/><img src='/images/Bouamir_Forest.png'>
