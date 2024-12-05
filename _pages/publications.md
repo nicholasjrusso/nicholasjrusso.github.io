@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Peer-reviewed Publications
-[9] **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. 2024. _Journal of Animal Ecology_ 93:1935-1946. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
+[9] **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. _Journal of Animal Ecology_ 93:1935-1946. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
 
 [8] Dehaudt, B., T. Bruce, V. Deblauwe, A. Ferraz, B. Gardner, T.F. Bibila, M. LeBreton, G. Mempong, K. Njabo, S.N. Nkengbeza, E.M. Ordway, L. Pavan, **N.J. Russo**, T.B. Smith, and M.S. Luskin. 2024. Divergent seed dispersal outcomes: interactions between seed, disperser, and forest traits. _Ecology_ 105:e4409. <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4409" target="_blank">[link]</a> <a href = "https://www.ioes.ucla.edu/article/new-research-unveils-the-hidden-complexity-of-antelope-seed-dispersal-in-congo-basin-tropical-forests/" target="_blank">[press]</a>
 
