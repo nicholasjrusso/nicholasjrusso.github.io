@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+## Preprints
+Russo, N.J., K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ DOI: https://doi.org/10.32942/X2DD0G
+
 ## Peer-reviewed Publications
 [10] Tinsman, J., A. Woodward, S. Su, D.H. Skinner, L.V. Kemp, A.D. Abeh, K.M. Afiadenmanyo,
 N. Arcilla, K. Brouwer, A.S Chaffra, F. Forzi, F. Guetse, L.H. Holbech, D. Ikome, A.M.
