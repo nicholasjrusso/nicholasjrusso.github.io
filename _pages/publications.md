@@ -8,13 +8,16 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
-Russo, N.J., K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ DOI: https://doi.org/10.32942/X2DD0G
+**Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ DOI: https://doi.org/10.32942/X2DD0G
 
 ## Peer-reviewed Publications
+[11] **Russo, N.J.**, J.M. Takuo, V. Tegebong, M. LeBreton, M. Dean, A. Ferraz, N. Barbier, M. Wikelski, E. M. Ordway, S.
+Saatchi, and T.B. Smith. Spaceborne and UAV-LiDAR reveal hammer-headed bat preference for intermediate canopy height and diverse structure in a Central African rainforest. _Movement Ecology_ In Press.
+
 [10] Tinsman, J., A. Woodward, S. Su, D.H. Skinner, L.V. Kemp, A.D. Abeh, K.M. Afiadenmanyo,
 N. Arcilla, K. Brouwer, A.S Chaffra, F. Forzi, F. Guetse, L.H. Holbech, D. Ikome, A.M.
 Koutchoro, S.G.K. Odoukpe, R. Orenstein, D. Nshom, **N.J. Russo**, T.B. Smith, R.S.
-Terrill, P.W. Trail, and J.A.O. Terrill. Intense international exploitation of African hornbills necessitates urgent conservation measures, including CITES listing. _Biological Conservation_ In Revision.
+Terrill, P.W. Trail, and J.A.O. Terrill. Intense international exploitation of African hornbills necessitates urgent conservation measures, including CITES listing. _Biological Conservation_ In Press.
 
 [9] **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. _Journal of Animal Ecology_ 93:1935-1946. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
 
