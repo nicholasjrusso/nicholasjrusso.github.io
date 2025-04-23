@@ -18,7 +18,7 @@ Koutchoro, S.G.K. Odoukpe, R. Orenstein, D. Nshom, **N.J. Russo**, T.B. Smith, R
 Terrill, P.W. Trail, and J.A.O. Terrill. Intense international exploitation of African hornbills necessitates urgent conservation measures, including CITES listing. _Biological Conservation_ In Press.
 
 [10] **Russo, N.J.**, J.M. Takuo, V. Tegebong, M. LeBreton, M. Dean, A. Ferraz, N. Barbier, M. Wikelski, E. M. Ordway, S.
-Saatchi, and T.B. Smith. Spaceborne and UAV-LiDAR reveal hammer-headed bat preference for intermediate canopy height and diverse structure in a Central African rainforest. _Movement Ecology_ 13:30. <a href = "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-025-00552-7" target="_blank">[link]</a>
+Saatchi, and T.B. Smith. 2025. Spaceborne and UAV-LiDAR reveal hammer-headed bat preference for intermediate canopy height and diverse structure in a Central African rainforest. _Movement Ecology_ 13:30. <a href = "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-025-00552-7" target="_blank">[link]</a>
 
 [9] **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. _Journal of Animal Ecology_ 93:1935-1946. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
 
