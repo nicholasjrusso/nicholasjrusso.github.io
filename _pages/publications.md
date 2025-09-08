@@ -14,6 +14,8 @@ author_profile: true
 
 **2025**
 
+[12] Dehaudt, B., R. Bose, J.J. Avoto, S. Brittain, T. Bruce, E.K. Chen, F.A. Forzi, B.D. Hardesty, K.M. Holbrook, A.M. Lamperti, V.T. Parker, J.R. Poulsen, **N.J. Russo**, E. Simpoh, B.C. Wang, K.D. Whitney, T.B. Smith, and M.S. Luskin. 2025. Thirty years of arboreal wildlife trends in an African rainforest reveal the protective role of researchers’ presence and its limitations. _Biological Conservation_ 312:111475. <a href = "https://www.sciencedirect.com/science/article/pii/S0006320725005129" target="_blank">[link]</a>
+
 [11] Tinsman, J., A. Woodward, S. Su, D.H. Skinner, L.V. Kemp, A.D. Abeh, K.M. Afiadenmanyo,
 N. Arcilla, K. Brouwer, A.S Chaffra, F. Forzi, F. Guetse, L.H. Holbech, D. Ikome, A.M.
 Koutchoro, S.G.K. Odoukpe, R. Orenstein, D. Nshom, **N.J. Russo**, T.B. Smith, R.S.
