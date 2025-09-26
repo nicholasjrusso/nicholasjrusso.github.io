@@ -22,7 +22,7 @@ Koutchoro, S.G.K. Odoukpe, R. Orenstein, D. Nshom, **N.J. Russo**, T.B. Smith, R
 Terrill, P.W. Trail, and J.A.O. Terrill. 2025. Intense international exploitation of African hornbills necessitates urgent conservation measures, including CITES listing. _Biological Conservation_ 308:111105. <a href = "https://www.sciencedirect.com/science/article/pii/S0006320725001429" target="_blank">[link]</a> <a href = "https://www.nature.com/articles/d44148-025-00202-5" target="_blank">[press]</a> <a href = "https://nautil.us/the-hornbills-left-behind-1218448/" target="_blank">[press]</a>
 
 [10] **Russo, N.J.**, J.M. Takuo, V. Tegebong, M. LeBreton, M. Dean, A. Ferraz, N. Barbier, M. Wikelski, E. M. Ordway, S.
-Saatchi, and T.B. Smith. 2025. Spaceborne and UAV-LiDAR reveal hammer-headed bat preference for intermediate canopy height and diverse structure in a Central African rainforest. _Movement Ecology_ 13:30. <a href = "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-025-00552-7" target="_blank">[link]</a>
+Saatchi, and T.B. Smith. 2025. Spaceborne and UAV-LiDAR reveal hammer-headed bat preference for intermediate canopy height and diverse structure in a central African rainforest. _Movement Ecology_ 13:30. <a href = "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-025-00552-7" target="_blank">[link]</a>
 
 **2024**
 
