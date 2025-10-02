@@ -12,7 +12,7 @@ I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" targe
 
 I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon.
 
-<a href="https://nicholasjrusso.github.io/files/Russo_CV_24Sep2025.pdf" target="_blank">Curriculum Vitae</a>
+<a href="https://nicholasjrusso.github.io/files/Russo_CV_02Oct2025.pdf" target="_blank">Curriculum Vitae</a>
 
 Contact: nicholasrusso@g.harvard.edu
 
