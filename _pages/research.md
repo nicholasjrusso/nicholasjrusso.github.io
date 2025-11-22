@@ -13,6 +13,7 @@ Animals can exert outsized impacts on ecosystem stability by moving among habita
 
 
 **Relevant publications:**
+
 **Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ <a href = "https://doi.org/10.32942/X2DD0G" target="_blank">[link]</a>
 
 **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. 2024. _Journal of Animal Ecology_. DOI: 10.1111/1365-2656.14202. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
@@ -22,7 +23,7 @@ Animals can exert outsized impacts on ecosystem stability by moving among habita
 **Russo, N.J.**, C.S. Elphick, N.P. Havill, and M.W. Tingley. 2019. Spring bird migration as a dispersal mechanism for the hemlock woolly adelgid. _Biological Invasions_ 5: 1585-1599. <a href="https://greathollow.org/wp-content/uploads/2020/03/Russo-et-al.-2019.pdf" target="_blank">[link]</a> <a href="https://www.audubon.org/news/migrating-birds-may-be-spreading-invasive-pest-decimates-forests" target="_blank">[press]</a>
 
 ## Interactions between animals and vegetation structure
-
+<img src="/images/HSF_07_250m_pointCloud.png" align="right" style="width:40%" />
 Animal behaviors shape and are shaped by their environment. In tropical forest ecosystems with high 3D structural diversity, animals on the ground, in the canopy, and in between decide where to move based in part on how 3D vegetation structure indicates the locations of resources and risks. In turn, animals influence vegetation structure through seed dispersal, herbivory, and other ecological roles. Light detection and ranging (LiDAR) is an effective tool for characterizing 3D vegetation structure--especially for showing how vegetation structure influences the movements of seed-dispersing animals from the ground to the canopy in central African rainforests. I am currently exploring how 3D vegetation structure can be mediated by seed dispersers and herbivores like birds, bats, monkeys, and elephants. Establishing causality in animal-landscape interactions is critical for understanding how ecosystems function and for predicting their response to global climate and land use change.
 
 **Relevant publications:**
@@ -33,7 +34,7 @@ Saatchi, and T.B. Smith. 2025. Spaceborne and UAV-LiDAR reveal hammer-headed bat
 **Russo, N.J.**, A.B. Davies, R.V. Blakey, E.M. Ordway, and T.B. Smith. 2023. Feedback loops between 3D vegetation structure and ecological functions of animals. _Ecology Letters_ 26:1597–1613. DOI: 10.1111/ele.14272 <a href="https://doi.org/10.1111/ele.14272" target="_blank">[link]</a>
 
 ## Ecology and conservation of African ecosystems
-
+<img src="/images/Moise removes sock.jpg" align="left" style="width:40%" />
 Ecology research is motivated in large part by its applications to practical problems involving humans and wildlife. Much of my past and current research addresses conservation issues in Africa's Congo Basin, including the effects of human activities on the nomadic movements of hornbills, their regional population declines, and their susceptibility to international trade. Community engagement is central to this work, including building relationships with Baka and Badwe’e forest guides whose knowledge of Congo Basin rainforests is critical for long-term protection, and mentoring students who will become conservation leaders in their country.
 
 
