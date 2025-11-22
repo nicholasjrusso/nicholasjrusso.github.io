@@ -35,9 +35,10 @@ Saatchi, and T.B. Smith. 2025. Spaceborne and UAV-LiDAR reveal hammer-headed bat
 **Russo, N.J.**, A.B. Davies, R.V. Blakey, E.M. Ordway, and T.B. Smith. 2023. Feedback loops between 3D vegetation structure and ecological functions of animals. _Ecology Letters_ 26:1597–1613. DOI: 10.1111/ele.14272 <a href="https://doi.org/10.1111/ele.14272" target="_blank">[link]</a>
 
 ## Ecology and conservation of African ecosystems
-<img src="/images/Moise removes sock.jpg" align="left" style="width:30%" />
+
 Ecology research is motivated in large part by its applications to practical problems involving humans and wildlife. Much of my past and current research addresses conservation issues in Africa's Congo Basin, including the effects of human activities on the nomadic movements of hornbills, their regional population declines, and their susceptibility to international trade. Community engagement is central to this work, including building relationships with Baka and Badwe’e forest guides whose knowledge of Congo Basin rainforests is critical for long-term protection, and mentoring students who will become conservation leaders in their country.
 
+<img src="/images/Moise removes sock.jpg" align="bottom" style="width:30%" />
 
 **Relevant publications:**
 
