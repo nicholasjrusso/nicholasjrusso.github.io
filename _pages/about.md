@@ -8,9 +8,11 @@ redirect_from:
   - /nicholasjrusso.github.io
 ---
 
-I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" target="_blank">Andrew Davies</a> at Harvard University, where I research animal-landscape interactions in African ecosystems. I focus on feedback loops between 3D vegetation structure and animal behavior, drawing from movement ecology, trait-based ecology, and remote sensing. I have a particular fascination with animals dispersing other organisms.
+My research has followed a trajectory from local-scale studies on animals dispersing other organisms to fieldwork and syntheses that investigate feedback between animals and vegetation structure. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to describe and protect processes that promote biodiversity. 
 
-I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon.
+I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon. 
+
+I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" target="_blank">Andrew Davies</a> at Harvard University, where I research animal-landscape interactions in African ecosystems.
 
 <a href="https://nicholasjrusso.github.io/files/Russo_CV_02Oct2025.pdf" target="_blank">Curriculum Vitae</a>
 
