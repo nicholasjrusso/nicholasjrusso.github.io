@@ -7,35 +7,42 @@ author_profile: true
 
 {% include base_path %}
 
-## Movement Ecology of Frugivores and Spatial Patterns of Seed Dispersal
+## Consequences of animal movements for ecological processes
 <img src="/images/hornbill8899-JunJul2022.gif" align="right" style="width:40%" />
-Black-casqued (_Ceratogymna atrata_) and white-thighed hornbill (_Bycanistes albotibialis_) disperse the seeds of more than 50 rainforest tree species and may travel 
-hundreds of kilometers during the food-lean dry season. During my PhD, I studied how 3D vegetation structure influences their movement decisions and resulting patterns of seed dispersal. 
+Animals can exert outsized impacts on ecosystem stability by moving among habitat patches and modifying their environment. My research addresses the consequences of animal movement for dispersal of both vascular and nonvascular plants, as well as an invasive insect, the hemlock woolly adelgid. I am particularly interested in how species--and individuals of the same species--vary in movement behavior and how this "movement diversity" can be a form of biodiversity in itself. Ongoing research addresses the diversity of behavioral traits hiding in animal movement data, how they relate to animal ecological roles, and how they are threatened by agents of global change. 
 
 
 **Relevant publications:**
+**Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ <a href = "https://doi.org/10.32942/X2DD0G" target="_blank">[link]</a>
 
 **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. 2024. _Journal of Animal Ecology_. DOI: 10.1111/1365-2656.14202. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
 
-## Spring Bird Migration as a Mechanism for Hemlock Woolly Adelgid Dispersal
-<img src="/images/WoollyAdelgid.jpg" align="left" style="width:40%" />
-Hemlock woolly adelgid (_Adelges tsugae_) is an invasive insect that destroys forests of eastern and Carolina hemlock (_Tsuga canadensis_ and _T. caroliniana_, respectively), and I’m interested in how birds contribute to its expansion. My first project focused on adelgid transfer between infested branches and birds, and in 2016 and 2017 I mist-netted birds in hemlock forests and collected adelgids from their feathers from migration through the breeding season. Another experiment investigated the ability of adelgids to settle on hemlock foliage post-dispersal.
+**Russo, N.J.**, M.W. Robertson, R. MacKenzie, B. Goffinet, and J. Jiménez. 2020. Evidence of targeted consumption of mosses by birds in sub-Antarctic South America. _Austral Ecology_ 45: 399-403. <a href="https://www.researchgate.net/profile/Jaime-E-Jimenez-2/publication/338857943_Evidence_of_targeted_consumption_of_mosses_by_birds_in_sub-Antarctic_South_America/links/5e3c5fb6a6fdccd9658e05b6/Evidence-of-targeted-consumption-of-mosses-by-birds-in-sub-Antarctic-South-America.pdf" target="_blank">[link]</a>
+
+**Russo, N.J.**, C.S. Elphick, N.P. Havill, and M.W. Tingley. 2019. Spring bird migration as a dispersal mechanism for the hemlock woolly adelgid. _Biological Invasions_ 5: 1585-1599. <a href="https://greathollow.org/wp-content/uploads/2020/03/Russo-et-al.-2019.pdf" target="_blank">[link]</a> <a href="https://www.audubon.org/news/migrating-birds-may-be-spreading-invasive-pest-decimates-forests" target="_blank">[press]</a>
+
+## Interactions between animals and vegetation structure
+
+Animal behaviors shape and are shaped by their environment. In tropical forest ecosystems with high 3D structural diversity, animals on the ground, in the canopy, and in between decide where to move based in part on how 3D vegetation structure indicates the locations of resources and risks. In turn, animals influence vegetation structure through seed dispersal, herbivory, and other ecological roles. Light detection and ranging (LiDAR) is an effective tool for characterizing 3D vegetation structure--especially for showing how vegetation structure influences the movements of seed-dispersing animals from the ground to the canopy in central African rainforests. I am currently exploring how 3D vegetation structure can be mediated by seed dispersers and herbivores like birds, bats, monkeys, and elephants. Establishing causality in animal-landscape interactions is critical for understanding how ecosystems function and for predicting their response to global climate and land use change.
 
 **Relevant publications:**
 
-**Russo, N.J.**, C.S. Elphick, N.P. Havill, and M.W. Tingley. 2019. Spring bird migration as a dispersal mechanism for the hemlock woolly adelgid. _Biological Invasions_       5: 1585-1599. <a href="https://greathollow.org/wp-content/uploads/2020/03/Russo-et-al.-2019.pdf" target="_blank">[link]</a> <a href="https://www.audubon.org/news/migrating-birds-may-be-spreading-invasive-pest-decimates-forests" target="_blank">[press]</a>
+**Russo, N.J.**, J.M. Takuo, V. Tegebong, M. LeBreton, M. Dean, A. Ferraz, N. Barbier, M. Wikelski, E. M. Ordway, S.
+Saatchi, and T.B. Smith. 2025. Spaceborne and UAV-LiDAR reveal hammer-headed bat preference for intermediate canopy height and diverse structure in a central African rainforest. _Movement Ecology_ 13:30. <a href = "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-025-00552-7" target="_blank">[link]</a>
 
-**Russo, N.J.**, C.A.S.-J. Cheah, and M.W. Tingley. 2016. Experimental evidence for branch-to-bird transfer as a mechanism for avian dispersal of the hemlock woolly          adelgid (Hemiptera: Adelgidae). _Environmental Entomology_ 45: 1107-1114. <a href="https://www.researchgate.net/profile/Nicholas-Russo-3/publication/305784014_Experimental_Evidence_for_Branch-to-Bird_Transfer_as_a_Mechanism_for_Avian_Dispersal_of_the_Hemlock_Woolly_Adelgid_Hemiptera_Adelgidae/links/5a26bc674585155dd423eed2/Experimental-Evidence-for-Branch-to-Bird-Transfer-as-a-Mechanism-for-Avian-Dispersal-of-the-Hemlock-Woolly-Adelgid-Hemiptera-Adelgidae.pdf" target="_blank">[link]</a> <a href="https://entomologytoday.org/2016/08/01/tree-killing-hemlock-wooly-adelgids-hitch-rides-on-birds/" target="_blank">[press]</a>
+**Russo, N.J.**, A.B. Davies, R.V. Blakey, E.M. Ordway, and T.B. Smith. 2023. Feedback loops between 3D vegetation structure and ecological functions of animals. _Ecology Letters_ 26:1597–1613. DOI: 10.1111/ele.14272 <a href="https://doi.org/10.1111/ele.14272" target="_blank">[link]</a>
 
-## Bird-bryophyte Interactions in Sub-Antarctic Chile
-<img src="/images/UplandGoose.jpg" align="left" style="width:30%" />
-This project addressed how birds disperse bryophytes in the Sub-Antarctic Magellanic Ecoregion. Moss fragments have been found in the feces of White-bellied Seedsnipes 
-(_Attagis malouinus_) and Upland Geese (_Chloephaga picta_) in this region, and as part of the Sub-Antarctic Biocultural Conservation Program, I assessed the importance of bryophytes in the diets of geese and seedsnipes through visual inspection and by barcoding target bryophyte gene loci in DNA from goose feces. As a bonus, I recovered 
-live tardigrades from the feces of white-bellied seedsnipe.
+## Ecology and conservation of African ecosystems
+
+Ecology research is motivated in large part by its applications to practical problems involving humans and wildlife. Much of my past and current research addresses conservation issues in Africa's Congo Basin, including the effects of human activities on the nomadic movements of hornbills, their regional population declines, and their susceptibility to international trade. Community engagement is central to this work, including building relationships with Baka and Badwe’e forest guides whose knowledge of Congo Basin rainforests is critical for long-term protection, and mentoring students who will become conservation leaders in their country.
+
 
 **Relevant publications:**
 
-Robertson, M.W., **N.J. Russo**, S.J. McInnes, B. Goffinet, and J.E. Jiménez. 2020. Potential dispersal of tardigrades by birds through endozoochory: evidence from sub-      Antarctic White-bellied Seedsnipe (Attagis malouinus). _Polar Biology_ 43: 899–902. <a href="https://par.nsf.gov/servlets/purl/10177900" target="_blank">[link]</a>
+Dehaudt, B., R. Bose, J.J. Avoto, S. Brittain, T. Bruce, E.K. Chen, F.A. Forzi, B.D. Hardesty, K.M. Holbrook, A.M. Lamperti, V.T. Parker, J.R. Poulsen, **N.J. Russo**, E. Simpoh, B.C. Wang, K.D. Whitney, T.B. Smith, and M.S. Luskin. 2025. Thirty years of arboreal wildlife trends in an African rainforest reveal the protective role of researchers’ presence and its limitations. _Biological Conservation_ 312:111475. <a href = "https://www.sciencedirect.com/science/article/pii/S0006320725005129" target="_blank">[link]</a>
 
-**Russo, N.J.**, M.W. Robertson, R. MacKenzie, B. Goffinet, and J. Jiménez. 2020. Evidence of targeted consumption of mosses by birds in sub-Antarctic South America.         _Austral Ecology_ 45: 399-403. <a href="https://www.researchgate.net/profile/Jaime-E-Jimenez-2/publication/338857943_Evidence_of_targeted_consumption_of_mosses_by_birds_in_sub-Antarctic_South_America/links/5e3c5fb6a6fdccd9658e05b6/Evidence-of-targeted-consumption-of-mosses-by-birds-in-sub-Antarctic-South-America.pdf" target="_blank">[link]</a>
+Tinsman, J., A. Woodward, S. Su, D.H. Skinner, L.V. Kemp, A.D. Abeh, K.M. Afiadenmanyo,
+N. Arcilla, K. Brouwer, A.S Chaffra, F. Forzi, F. Guetse, L.H. Holbech, D. Ikome, A.M.
+Koutchoro, S.G.K. Odoukpe, R. Orenstein, D. Nshom, **N.J. Russo**, T.B. Smith, R.S.
+Terrill, P.W. Trail, and J.A.O. Terrill. 2025. Intense international exploitation of African hornbills necessitates urgent conservation measures, including CITES listing. _Biological Conservation_ 308:111105. <a href = "https://www.sciencedirect.com/science/article/pii/S0006320725001429" target="_blank">[link]</a> <a href = "https://www.nature.com/articles/d44148-025-00202-5" target="_blank">[press]</a> <a href = "https://nautil.us/the-hornbills-left-behind-1218448/" target="_blank">[press]</a>
 
