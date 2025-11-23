@@ -8,7 +8,7 @@ redirect_from:
   - /nicholasjrusso.github.io
 ---
 
-My research has followed a trajectory from local-scale studies on animals dispersing other organisms to fieldwork and syntheses that investigate feedback between animals and vegetation structure. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to describe and protect processes that promote biodiversity. 
+My research has followed a trajectory from local-scale studies on animals dispersing other organisms to fieldwork and syntheses that investigate feedback between animals and vegetation structure. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to understand processes that promote biodiversity. 
 
 I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon. 
 
