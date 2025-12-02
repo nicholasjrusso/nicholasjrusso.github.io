@@ -7,14 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints
-**Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ <a href = "https://doi.org/10.32942/X2DD0G" target="_blank">[link]</a>
-
 ## Peer-reviewed Publications
 
-**2025**
+**Preprints/In press**
+
+[15] **Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ <a href = "https://doi.org/10.32942/X2DD0G" target="_blank">[link]</a>
+
+[14] Tekam, S.A.A.†, **N.J. Russo**, B. Sonké, V. Deblauwe, D.L. Nshom, N. Barbier, A. Ferraz, S. Saatchi, M. Wikelski, E.M. Ordway, and T.B. Smith. Habitat selection and seed dispersal by the Great Blue Turaco (_Corythaeola cristata_) in the rainforests of southern Cameroon. _Biotropica_. In press.
+† Student mentee
 
 [13] Worden, S., R. Fu, A.A. Bloom, M. Bauters, H. Verbeeck, T. Fatoyinbo, W. Hubau, L.-S. Koutika, S.K. Kengdo, S.L. Maes, V. Medjibe, **N.J. Russo**, S. Saatchi, L. Sagang, T.B. Smith, D.J. Sonway, P. Boeckx, E.M. Ordway. Congo Basin carbon cycle responses to global change. _Global Change Biology_. In press.
+
+**2025**
 
 [12] Dehaudt, B., R. Bose, J.J. Avoto, S. Brittain, T. Bruce, E.K. Chen, F.A. Forzi, B.D. Hardesty, K.M. Holbrook, A.M. Lamperti, V.T. Parker, J.R. Poulsen, **N.J. Russo**, E. Simpoh, B.C. Wang, K.D. Whitney, T.B. Smith, and M.S. Luskin. 2025. Thirty years of arboreal wildlife trends in an African rainforest reveal the protective role of researchers’ presence and its limitations. _Biological Conservation_ 312:111475. <a href = "https://www.sciencedirect.com/science/article/pii/S0006320725005129" target="_blank">[link]</a>
 
