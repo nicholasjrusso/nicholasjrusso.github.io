@@ -13,10 +13,12 @@ author_profile: true
 
 [15] **Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ <a href = "https://doi.org/10.32942/X2DD0G" target="_blank">[link]</a>
 
-[14] Tekam, S.A.A.†, **N.J. Russo**, B. Sonké, V. Deblauwe, D.L. Nshom, N. Barbier, A. Ferraz, S. Saatchi, M. Wikelski, E.M. Ordway, and T.B. Smith. Habitat selection and seed dispersal by the Great Blue Turaco (_Corythaeola cristata_) in the rainforests of southern Cameroon. _Biotropica_. In press.
-† Student mentee
+[14] Worden, S., R. Fu, A.A. Bloom, M. Bauters, H. Verbeeck, T. Fatoyinbo, W. Hubau, L.-S. Koutika, S.K. Kengdo, S.L. Maes, V. Medjibe, **N.J. Russo**, S. Saatchi, L. Sagang, T.B. Smith, D.J. Sonway, P. Boeckx, E.M. Ordway. Congo Basin carbon cycle responses to global change. _Global Change Biology_. In press.
 
-[13] Worden, S., R. Fu, A.A. Bloom, M. Bauters, H. Verbeeck, T. Fatoyinbo, W. Hubau, L.-S. Koutika, S.K. Kengdo, S.L. Maes, V. Medjibe, **N.J. Russo**, S. Saatchi, L. Sagang, T.B. Smith, D.J. Sonway, P. Boeckx, E.M. Ordway. Congo Basin carbon cycle responses to global change. _Global Change Biology_. In press.
+**2026**
+
+[13] Tekam, S.A.A.†, **N.J. Russo**, B. Sonké, V. Deblauwe, D.L. Nshom, N. Barbier, A. Ferraz, S. Saatchi, M. Wikelski, E.M. Ordway, and T.B. Smith. 2026. Habitat selection and seed dispersal by the Great Blue Turaco (_Corythaeola cristata_) in the rainforests of southern Cameroon. _Biotropica_ 58:e70153. <a href = "https://onlinelibrary.wiley.com/doi/10.1111/btp.70153" target="_blank">[link]</a>
+† Student mentee
 
 **2025**
 
