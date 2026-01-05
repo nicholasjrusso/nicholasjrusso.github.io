@@ -18,4 +18,16 @@ I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" targe
 
 Contact: nicholasrusso@g.harvard.edu
 
+## News
+
+### December 2025
+**New paper** published in _Biotropica_! <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/btp.70153" target="_blank">[link]</a>. This work is the product of  Antoine Tekam's Master's thesis at l'Université de Yaoundé I, which investigated the importance of 3D vegetation structure for Great Blue Turaco habitat selection and resulting patterns of seed dispersal. It is also a product of a NASA grant investigating how 3D vegetation structure influences seed dispersal by animals in Cameroon's rainforests.
+
+### November 2025 
+*Hornbill research highlighted in Yale E360* <a href="https://e360.yale.edu/features/african-hornbill-trafficking" target="_blank">[link]</a>.
+Our work on hornbill trafficking and conservation is featured in *Yale Environment 360*. Hornbill casques--the hard, hollow structure above the bill--are traded from African forests to the U.S. without regulation, leading to hornbill population declines and potential decreases in seed dispersal. There has been a shift in demand from Asian to African hornbills in international trade since the former were protected by the Convention on International Trade in Endangered Species (CITES) in 1992. We advocate for CITES protection of African hornbill species in a paper published this year in *Biological Conservation*. <a href="https://www.sciencedirect.com/science/article/pii/S0006320725001429" target="_blank">[link]</a>.
+
+*"Traits" Workshop*
+I met in Bad Homburg, Germany with a few dozen researchers working on ways to use individual-level plant and animal traits to understand ecosystem processes. We discussed ways to integrate databases such as AVONET, TRY, and the newly minted MoveTraits to make predictions about how ecosystems respond to global change. This workshop was hosted by the Senckenberg Biodiversity and Climate Research Centre (SBiK-F).
+
 <br/><img src='/images/Bouamir_Forest.png'>
