@@ -20,6 +20,9 @@ Contact: nicholasrusso@g.harvard.edu
 
 ## News
 
+### January 2026
+*Boston Area Bird Meeting:* I presented the talk "Long-distance movements and behavioral variation of African hornbills diversify seed dispersal patterns" at a meeting of ornithology researchers in the Boston area in beyond, hosted at Harvard. It was a great way to connect with other bird researchers at Harvard, Tufts, and UMass Amherst.
+
 ### December 2025
 **New paper** published in _Biotropica_! <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/btp.70153" target="_blank">[link]</a>. This work is the product of  Antoine Tekam's Master's thesis at l'Université de Yaoundé I, which investigated the importance of 3D vegetation structure for Great Blue Turaco habitat selection and resulting patterns of seed dispersal. It is also a product of a NASA grant investigating how 3D vegetation structure influences seed dispersal by animals in Cameroon's rainforests.
 
