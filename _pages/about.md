@@ -31,6 +31,6 @@ Contact: nicholasrusso@g.harvard.edu
 Our work on hornbill trafficking and conservation is featured in *Yale Environment 360*. Hornbill casques--the hard, hollow structure above the bill--are traded from African forests to the U.S. without regulation, leading to hornbill population declines and potential decreases in seed dispersal. There has been a shift in demand from Asian to African hornbills in international trade since the former were protected by the Convention on International Trade in Endangered Species (CITES) in 1992. We advocate for CITES protection of African hornbill species in a paper published this year in *Biological Conservation*. <a href="https://www.sciencedirect.com/science/article/pii/S0006320725001429" target="_blank">[link]</a>.
 
 *"Traits" Workshop*
-I met in Bad Homburg, Germany with a few dozen researchers working on ways to use individual-level plant and animal traits to understand ecosystem processes. We discussed ways to integrate databases such as AVONET, TRY, and the newly minted MoveTraits to make predictions about how ecosystems respond to global change. This workshop was hosted by the Senckenberg Biodiversity and Climate Research Centre (SBiK-F).
+I met in Bad Homburg, Germany with a few dozen researchers working on ways to use individual-level plant and animal traits to understand ecosystem processes. This workshop was hosted by the Senckenberg Biodiversity and Climate Research Centre (SBiK-F).
 
 <br/><img src='/images/Bouamir_Forest.png'>
