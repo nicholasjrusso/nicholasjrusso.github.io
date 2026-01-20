@@ -19,8 +19,7 @@ I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" targe
 Contact: nicholasrusso@g.harvard.edu
 
 ## News
-
-### January 2026*
+### January 2026
 **New paper** published in _Global Change Biology_! <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70688" target="_blank">[link]</a>. This review, led by Sarah Worden, describes Congo Basin carbon stocks and fluxes as well as threats to the region's carbon cycle.
 
 *Boston Area Bird Meeting:* I presented the talk "Long-distance movements and behavioral variation of African hornbills diversify seed dispersal patterns" at a meeting of ornithology researchers in the Boston area in beyond, hosted at Harvard. It was a great way to connect with other bird researchers at Harvard, Tufts, and UMass Amherst.
