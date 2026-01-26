@@ -14,7 +14,7 @@ I completed my PhD in Ecology and Evolutionary Biology at the University of Cali
 
 I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" target="_blank">Andrew Davies</a> at Harvard University, where I research animal-landscape interactions in African ecosystems.
 
-<a href="https://nicholasjrusso.github.io/files/Russo_CV_02Oct2025.pdf" target="_blank">Curriculum Vitae</a>
+<a href="https://nicholasjrusso.github.io/files/Russo_CV_26Jan2026.pdf" target="_blank">Curriculum Vitae</a>
 
 Contact: nicholasrusso@g.harvard.edu
 
