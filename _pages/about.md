@@ -8,7 +8,7 @@ redirect_from:
   - /nicholasjrusso.github.io
 ---
 
-My research has followed a trajectory from local-scale studies on animals dispersing other organisms to fieldwork and syntheses that investigate feedback between animals and vegetation structure. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to understand processes that promote biodiversity. 
+My research addresses reciprocal interactions between animals and ecosystems, and especially feedback loops between 3D vegetation structure and animal movement behavior. I am particularly fascinated by animals dispersing other organisms, including how migrating birds of U.S. temperate forests facilitate the spread of invasive species, and how the movement behaviors of birds and mammals influence seed dispersal patterns in African rainforests. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to understand processes that promote biodiversity. 
 
 I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon. 
 
@@ -19,6 +19,10 @@ I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" targe
 Contact: nicholasrusso@g.harvard.edu
 
 ## News
+
+### February 2026
+I traveled to Togo for a project investigating the connections among deforestation, climate, and human health. In collaboration with the University of Lomé, I helped survey forest composition and structure in some of the country's disappearing patches of forest, and then visited <a href="https://www.birdpartners.org/" target="_blank">IBCP</a> researchers in Fazao-Malfakassa National Park for some bird surveys.
+
 ### January 2026
 **New paper** published in _Global Change Biology_! <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70688" target="_blank">[link]</a>. This review, led by Sarah Worden, describes Congo Basin carbon stocks and fluxes as well as threats to the region's carbon cycle.
 
