@@ -21,7 +21,9 @@ Contact: nicholasrusso@g.harvard.edu
 ## News
 
 ### February 2026
-I traveled to Togo for a project investigating the connections among deforestation, climate, and human health. In collaboration with the University of Lomé, I helped survey forest composition and structure in some of the country's disappearing patches of forest, and then visited <a href="https://www.birdpartners.org/" target="_blank">IBCP</a> researchers in Fazao-Malfakassa National Park for some bird surveys.
+**New paper** published in _Frontiers in Ecology and the Environment_! <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.70038" target="_blank">[link]</a> This "Concepts and Questions" paper describes “movement diversity” as a component of biodiversity, including its causes and consequences, and proposes a system for incorporating new metrics. It was the product of a weekly UCLA Movement Ecology discussion group.
+
+*Togo fieldwork:* I traveled to Togo for a project investigating the connections among deforestation, climate, and human health. In collaboration with the University of Lomé, I helped survey forest composition and structure in some of the country's disappearing patches of forest, and then visited <a href="https://www.birdpartners.org/" target="_blank">IBCP</a> researchers in Fazao-Malfakassa National Park for some bird surveys.
 
 ### January 2026
 **New paper** published in _Global Change Biology_! <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70688" target="_blank">[link]</a>. This review, led by Sarah Worden, describes Congo Basin carbon stocks and fluxes as well as threats to the region's carbon cycle.
