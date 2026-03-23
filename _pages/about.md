@@ -20,9 +20,12 @@ Contact: nicholasrusso@g.harvard.edu
 
 ## News
 
-### February 2026
+### March 2026
+*South Africa fieldwork*: I traveled to Kruger National Park for airborne LiDAR, thermal, and RGB surveys and saw this magnificent landscape from 800 ft. The data from these surveys will be used for several projects, including research on rhino social behavior and vegetation structural change due to megafauna. 
+
 **New paper** published in _Frontiers in Ecology and the Environment_! <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.70038" target="_blank">[link]</a> This "Concepts and Questions" paper describes “movement diversity” as a component of biodiversity, including its causes and consequences, and proposes a system for incorporating new metrics. It was the product of a weekly UCLA Movement Ecology discussion group.
 
+### February 2026
 *Togo fieldwork:* I traveled to Togo for a project investigating the connections among deforestation, climate, and human health. In collaboration with the University of Lomé, I helped survey forest composition and structure in some of the country's disappearing patches of forest, and then visited <a href="https://www.birdpartners.org/" target="_blank">IBCP</a> researchers in Fazao-Malfakassa National Park for some bird surveys.
 
 ### January 2026
