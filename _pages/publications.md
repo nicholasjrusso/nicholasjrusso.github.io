@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Peer-reviewed Publications
+† Student mentee
 
 **2026**
 
@@ -16,7 +17,6 @@ author_profile: true
 [14] Worden, S., R. Fu, A.A. Bloom, M. Bauters, H. Verbeeck, T. Fatoyinbo, W. Hubau, L.-S. Koutika, S.K. Kengdo, S.L. Maes, V. Medjibe, **N.J. Russo**, S. Saatchi, L. Sagang, T.B. Smith, D.J. Sonway, P. Boeckx, E.M. Ordway. 2026. Congo Basin carbon cycle responses to global change. _Global Change Biology_ 32:e70688. <a href = "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70688" target="_blank">[link]</a>
 
 [13] Tekam, S.A.A.†, **N.J. Russo**, B. Sonké, V. Deblauwe, D.L. Nshom, N. Barbier, A. Ferraz, S. Saatchi, M. Wikelski, E.M. Ordway, and T.B. Smith. 2026. Habitat selection and seed dispersal by the Great Blue Turaco (_Corythaeola cristata_) in the rainforests of southern Cameroon. _Biotropica_ 58:e70153. <a href = "https://onlinelibrary.wiley.com/doi/10.1111/btp.70153" target="_blank">[link]</a>
-† Student mentee
 
 **2025**
 
@@ -27,16 +27,16 @@ N. Arcilla, K. Brouwer, A.S Chaffra, F. Forzi, F. Guetse, L.H. Holbech, D. Ikome
 Koutchoro, S.G.K. Odoukpe, R. Orenstein, D. Nshom, **N.J. Russo**, T.B. Smith, R.S.
 Terrill, P.W. Trail, and J.A.O. Terrill. 2025. Intense international exploitation of African hornbills necessitates urgent conservation measures, including CITES listing. _Biological Conservation_ 308:111105. <a href = "https://www.sciencedirect.com/science/article/pii/S0006320725001429" target="_blank">[link]</a> <a href = "https://www.nature.com/articles/d44148-025-00202-5" target="_blank">[press]</a> <a href = "https://nautil.us/the-hornbills-left-behind-1218448/" target="_blank">[press]</a>
 
-[10] **Russo, N.J.**, J.M. Takuo, V. Tegebong, M. LeBreton, M. Dean, A. Ferraz, N. Barbier, M. Wikelski, E. M. Ordway, S.
+[10] **Russo, N.J.**, J.M. Takuo, V. Tegebong†, M. LeBreton, M. Dean, A. Ferraz, N. Barbier, M. Wikelski, E. M. Ordway, S.
 Saatchi, and T.B. Smith. 2025. Spaceborne and UAV-LiDAR reveal hammer-headed bat preference for intermediate canopy height and diverse structure in a central African rainforest. _Movement Ecology_ 13:30. <a href = "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-025-00552-7" target="_blank">[link]</a>
 
 **2024**
 
-[9] **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. _Journal of Animal Ecology_ 93:1935-1946. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
+[9] **Russo, N.J.**, D.L. Nshom†, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. _Journal of Animal Ecology_ 93:1935-1946. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
 
 [8] Dehaudt, B., T. Bruce, V. Deblauwe, A. Ferraz, B. Gardner, T.F. Bibila, M. LeBreton, G. Mempong, K. Njabo, S.N. Nkengbeza, E.M. Ordway, L. Pavan, **N.J. Russo**, T.B. Smith, and M.S. Luskin. 2024. Divergent seed dispersal outcomes: interactions between seed, disperser, and forest traits. _Ecology_ 105:e4409. <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4409" target="_blank">[link]</a> <a href = "https://www.ioes.ucla.edu/article/new-research-unveils-the-hidden-complexity-of-antelope-seed-dispersal-in-congo-basin-tropical-forests/" target="_blank">[press]</a>
 
-[7] **Russo, N.J.**, K.M. Holbrook, T.V. Dietsch, F.A. Forzi, A.S.A. Tekam, and T.B. Smith. 2024. A maneuverable canopy net for capturing large tropical birds. _Journal of Field Ornithology_ 95:13. <a href = "https://journal.afonet.org/vol95/iss1/art13/" target="_blank">[link]</a> <a href = "https://www.youtube.com/watch?v=Yl040eykTPo" target="_blank">[video]</a>
+[7] **Russo, N.J.**, K.M. Holbrook, T.V. Dietsch, F.A. Forzi, A.S.A. Tekam†, and T.B. Smith. 2024. A maneuverable canopy net for capturing large tropical birds. _Journal of Field Ornithology_ 95:13. <a href = "https://journal.afonet.org/vol95/iss1/art13/" target="_blank">[link]</a> <a href = "https://www.youtube.com/watch?v=Yl040eykTPo" target="_blank">[video]</a>
 
 **2023**
 
