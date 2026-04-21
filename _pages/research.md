@@ -14,7 +14,7 @@ Animals can exert outsized impacts on ecosystem stability by moving among habita
 
 **Relevant publications:**
 
-**Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2025. Monitoring animal movement diversity as a component of biodiversity. _EcoEvoRxiv_ <a href = "https://doi.org/10.32942/X2DD0G" target="_blank">[link]</a>
+**Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2026. Monitoring animal movement diversity as a component of biodiversity. _Frontiers in Ecology and the Environment_. e70038. <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.70038" target="_blank">[link]</a>
 
 **Russo, N.J.**, D.L. Nshom, A. Ferraz, N. Barbier, M. Wikelski, M.J. Noonan, E.M. Ordway, S. Saatchi, and T.B. Smith. 2024. Three-dimensional vegetation structure drives patterns of seed dispersal by African hornbills. 2024. _Journal of Animal Ecology_. DOI: 10.1111/1365-2656.14202. <a href = "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14202" target="_blank">[link]</a>
 
