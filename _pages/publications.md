@@ -12,7 +12,7 @@ author_profile: true
 
 **2026**
 
-[15] **Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2026. Monitoring animal movement diversity as a component of biodiversity. _Frontiers in Ecology and the Environment_. e70038. <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.70038" target="_blank">[link]</a>
+[15] **Russo, N.J.**, K. Gahm, M. Zuercher, K. Hernandez, R.V. Blakey, C. Niesner, and E. Abelson. 2026. Monitoring animal movement diversity as a component of biodiversity. _Frontiers in Ecology and the Environment_. 24:e70038. <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.70038" target="_blank">[link]</a>
 
 [14] Worden, S., R. Fu, A.A. Bloom, M. Bauters, H. Verbeeck, T. Fatoyinbo, W. Hubau, L.-S. Koutika, S.K. Kengdo, S.L. Maes, V. Medjibe, **N.J. Russo**, S. Saatchi, L. Sagang, T.B. Smith, D.J. Sonway, P. Boeckx, E.M. Ordway. 2026. Congo Basin carbon cycle responses to global change. _Global Change Biology_ 32:e70688. <a href = "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70688" target="_blank">[link]</a>
 
