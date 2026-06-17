@@ -20,6 +20,9 @@ Contact: nicholasrusso@g.harvard.edu
 
 ## News
 
+### June 2026
+**New paper** published in _Nature Reviews Biodiversity_! <a href="https://doi.org/10.1038/s44358-026-00173-x" target="_blank">[link]</a> This Perspective paper explains how animal movement data can improve how we measure and develop indicators of biodiversity change, especially within the Kunming–Montréal Global Biodiversity Framework. It is one of the first products of <a href="https://geobon.org/move-bon/" target="_blank">Move BON</a>  discussions!
+
 ### March 2026
 *South Africa fieldwork*: I traveled to Kruger National Park for airborne LiDAR, thermal, and RGB surveys and saw this magnificent landscape from 800 ft. The data from these surveys will be used for several projects, including research on rhino social behavior and vegetation structural change due to megafauna. 
 
