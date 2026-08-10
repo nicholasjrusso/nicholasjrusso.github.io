@@ -21,7 +21,7 @@ Contact: nicholasrusso@g.harvard.edu
 ## News
 
 ### August 2026
-*American Ornithological Society* I presented the talk "Exploring the connection between hornbill seed dispersal and forest recovery in Cameroon" at this conference, which was hosted at UMass-Amherst. This was a great opportunity to connect with other ornithologists, including many old friends.
+*American Ornithological Society*: I presented the talk "Exploring the connection between hornbill seed dispersal and forest recovery in Cameroon" at this conference, which was hosted at UMass-Amherst. This was a great opportunity to connect with other ornithologists, including many old friends.
 
 ### July 2026
 *Republic of Congo fieldwork*: I worked with Harvard undergraduate Chun-Yu (Danny) Su to complete a series of point counts quantifying bird diversity in a variety of habitat types within a forest-savanna mosaic in Odzala-Kokoua National Park. This work will support Danny's thesis, as well as an objective of NASA-funded work on how forest elephants influence biodiversity through their effects on vegetation structure. 
