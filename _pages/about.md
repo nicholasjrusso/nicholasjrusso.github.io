@@ -8,7 +8,7 @@ redirect_from:
   - /nicholasjrusso.github.io
 ---
 
-My research addresses reciprocal interactions between animals and ecosystems, and especially feedback loops between 3D vegetation structure and animal movement behavior. I am particularly fascinated by animals dispersing other organisms, including how North American migratory birds spread of invasive species and how birds and mammas disperse seeds in African rainforests. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to understand processes that promote biodiversity. 
+My research addresses reciprocal interactions between animals and ecosystems, and especially feedback loops between 3D vegetation structure and animal movement behavior. I am particularly fascinated by animals dispersing other organisms, including how North American migratory birds spread of invasive species and how birds and mammas disperse seeds in African rainforests. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to understand processes that shape patterns of biodiversity. 
 
 I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon. 
 
