@@ -8,11 +8,11 @@ redirect_from:
   - /nicholasjrusso.github.io
 ---
 
-My research addresses reciprocal interactions between animals and ecosystems, and especially feedback loops between 3D vegetation structure and animal movement behavior. I am particularly fascinated by animals dispersing other organisms, including how North American migratory birds spread of invasive species and how birds and mammas disperse seeds in African rainforests. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to understand processes that shape patterns of biodiversity. 
-
-I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon. 
+My research addresses reciprocal interactions between animals and ecosystems, and especially feedback loops between 3D vegetation structure and animal movement behavior. I am particularly fascinated by animals dispersing other organisms, including how North American migratory birds spread invasive species and how birds and mammals disperse seeds in African rainforests. I draw from movement ecology, remote sensing, vegetation modeling, and community engagement research to understand processes that shape patterns of biodiversity. 
 
 I am currently a postdoc with <a href="https://davieslab.oeb.harvard.edu/" target="_blank">Andrew Davies</a> at Harvard University, where I research animal-landscape interactions in African ecosystems, primarily using LiDAR.
+
+I completed my PhD in Ecology and Evolutionary Biology at the University of California, Los Angeles, working with Professor Tom Smith. My dissertation research focused on the movement ecology of frugivores and spatial patterns of seed dispersal in rainforests of Cameroon. 
 
 <a href="https://nicholasjrusso.github.io/files/Russo_CV_24Aug2026_web.pdf" target="_blank">Curriculum Vitae</a>
 
