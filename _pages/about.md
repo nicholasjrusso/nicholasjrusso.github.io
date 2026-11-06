@@ -20,6 +20,10 @@ Contact: nicholasrusso@g.harvard.edu
 
 ## News
 
+### November 2026
+*American Ornithological Society*: I presented a <a href="https://americanornithology.org/calendar/african-hornbill-movement-behavior-and-spatial-patterns-of-seed-dispersal/?_zs=XP8On&_zl=DClx3" target="_blank">webinar</a> on "African hornbill movement behavior and spatial patterns of seed dispersal" as part of the AOS Research Grant series.
+
+
 ### August 2026
 *American Ornithological Society*: I presented the talk "Exploring the connection between hornbill seed dispersal and forest recovery in Cameroon" at this conference, which was hosted at UMass-Amherst. This was a great opportunity to connect with other ornithologists, including many old friends.
 
